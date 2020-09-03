@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  dylan.trujillo
+
+  Created by dtrujillobaez on 03/09/2020.
+  Copyright © 2020 Dylan Trujillo. All rights reserved.
+*/
+
+// MARK: ListScreen
+"listscreen_add_button" = "Add";
+"listscreen_remove_all_button" = "Remove all entries";
+"listscreen_sort_asc_button" = "Sort ascending";
+"listscreen_table_title" = "Number list";
+"listscreen_input_placeholder" = "Entries input";
+"listscreen_table_empty" = "The list is empty";
+
+// MARK: MainScreen
+"mainscreen_call_service_button" = "Call service";
+"mainscreen_go_to_list_button" = "Go to list activity";
+"mainscreen_response" = "Response";
+
+// MARK: Misc
+"ok" = "Ok";
+"error_title" = "Error";
+"error_no_data" = "No data";
